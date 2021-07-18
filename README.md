@@ -1,5 +1,7 @@
 # research-content
 
+圖和文字內容，請幫我上傳到這邊 [google drive](https://drive.google.com/drive/folders/1qh5Mlno2KoDVQ4N_AayQDyfwcBK4XMco?usp=sharing)，謝拉
+
 ## 圖的部分
 
 ### 一張大圖（碩二）
